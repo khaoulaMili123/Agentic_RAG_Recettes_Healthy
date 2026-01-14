@@ -1,0 +1,16 @@
+langchain==0.1.14
+chromadb>=0.5.5
+python-dotenv>=1.0.1
+pydantic>=2.7.4
+tqdm>=4.66.5
+numpy>=1.26.4
+pandas>=2.2.4
+streamlit>=1.30.0
+playwright>=1.41.0
+beautifulsoup4>=4.12.3
+lxml>=5.2.2
+sentence-transformers>=3.0.1
+torch>=2.2.0
+transformers>=4.38.0
+sentencepiece>=0.1.99
+openai>=0.27.14

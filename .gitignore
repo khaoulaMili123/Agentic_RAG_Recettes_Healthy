@@ -1,0 +1,126 @@
+
+# Python
+# ----------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ----------------------------------------
+# Virtual Environments
+# ----------------------------------------
+.venv/
+venv/
+ENV/
+env/
+.env.local
+.python-version
+
+# ----------------------------------------
+# Environment Variables (IMPORTANT!)
+# ----------------------------------------
+.env
+.env.*
+!.env.example
+
+# ----------------------------------------
+# IDE / Editors
+# ----------------------------------------
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Vim
+*.swp
+*.swo
+*~
+
+# ----------------------------------------
+# ChromaDB (Vector Store)
+# ----------------------------------------
+chroma_db/
+
+# ----------------------------------------
+# Data (optionnel - décommenter si besoin)
+# ----------------------------------------
+# data/
+# *.jsonl
+
+# ----------------------------------------
+# Logs
+# ----------------------------------------
+*.log
+logs/
+
+# ----------------------------------------
+# Testing
+# ----------------------------------------
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# ----------------------------------------
+# Models (si téléchargés localement)
+# ----------------------------------------
+models/
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# ----------------------------------------
+# Hugging Face Cache
+# ----------------------------------------
+.cache/
+~/.cache/huggingface/
+
+# ----------------------------------------
+# OS Files
+# ----------------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ----------------------------------------
+# Misc
+# ----------------------------------------
+*.bak
+*.tmp
+*.temp
+.scratch/
