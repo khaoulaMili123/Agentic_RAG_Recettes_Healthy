@@ -1,4 +1,4 @@
-# 🥗 Healthy Recipes AI — Agentic RAG
+# 🥗 Recettes Saines et Gourmandes — Agentic RAG
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 📋 Table des matières
+## Table des matières
 
 - [ Fonctionnalités](#-fonctionnalités)
 - [ Architecture](#-architecture)
@@ -499,7 +499,7 @@ python -m rag.index_chroma
 
 ---
 
-## 🔧 Dépendances Principales
+##  Dépendances Principales
 
 | Package | Version | Usage |
 |---------|---------|-------|
